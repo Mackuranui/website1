@@ -1,0 +1,37 @@
+html, body {
+  
+  height: 100%;
+  width: 100%;
+background: rgb(34, 40, 195);
+background: linear-gradient(0deg, rgba(34,59,196,1) 0%, rgba(45,6,15,2) 100%);
+}
+header {
+     padding-top:20px;
+     width: 100%;
+     hight: 300px; 
+     text-align: center;
+     font-size: 3em;
+     background-color: #0084ff;
+     color:#010024;
+     font-family: 'Helvetica Neue',Helvetica, sans-serif;
+}
+ul {
+  background-color:blue;
+  text-aline:center;
+     font-size: 20px;
+     font-family: 'Helvetica Neue',Helvetica, sans-serif;
+}
+li{
+  display: inline;
+}
+a{
+  display:inline-block;
+color:black;
+text-decoration:none;
+  padding:20px;
+}
+a:hover{
+  background-color:green;
+colour:black;}
+  
+}
